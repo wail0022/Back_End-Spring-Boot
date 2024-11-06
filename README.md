@@ -1,4 +1,4 @@
-# Doctoral Registration Management Backend
+# Doctoral Registration Management
 
 This is the Full stack app for managing the registration of doctoral students. The app is built using the following technologies:
 - Spring Boot for the backend
