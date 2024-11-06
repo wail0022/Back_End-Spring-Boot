@@ -1,7 +1,11 @@
 # Doctoral Registration Management Backend
 
-This is the backend for the Doctoral Registration Management System, designed for the University Abdelmalek Essaâdi.
-
+This is the Full stack app for managing the registration of doctoral students. The app is built using the following technologies:
+- Spring Boot for the backend
+- Angular for the frontend
+- PostgreSQL for the database
+- Docker for containerization
+- pgAdmin for database management
 ## Pre-requisites
 - Docker
 - Docker Compose
