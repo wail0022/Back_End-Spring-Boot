@@ -28,7 +28,7 @@ This is the Full stack app for managing the registration of doctoral students. T
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/MedEZZOUAK/Full-project.git
+git clone https://github.com/Back_End-Spring-Boot
 cd Full-project
 ```
 ## Build the Docker images
@@ -78,12 +78,12 @@ The Angular frontend application is configured to connect to the Spring Boot bac
 ## Backend Configuration
 The Spring Boot application is configured to connect to the PostgreSQL database at http://db:5432. You can change this setting in the application.properties file in the backend source code if needed.
 For more info check the README.md file in the backend Repo [here](
-    https://github.com/MedEZZOUAK/springapi_init.git )
+    https://github.com/wail0022/Back_End-Spring-Boot )
 
 ## Contributors
 I would like to thank my team members for their contributions to this project:
 - [Salma Benaouda](https://github.com/SalmaBenaouda)
-- [Madani Ouail](https://github.com/wail00222)
+- [Mohammed EZ-ZOUAK](https://github.com/MedEZZOUAK)
 - [Bamhaouch Fatima-zahra](https://github.com/Fatibam)
 
 ## Rapport
